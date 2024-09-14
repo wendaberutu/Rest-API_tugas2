@@ -1,0 +1,24 @@
+[
+{
+    "nama": "Wenda Berutu", 
+    "umur": 22,
+    "Nim" : 215314190,
+    "lulus": true, 
+    "hobby" : ["nyanyi", " travel"],
+    "pembimbing":{
+        "pembimbing1":" bu rosa",
+        "pembimbing2": "bu rita"
+    }
+},
+{
+    "nama": "wendy", 
+    "umur": 21,
+    "Nim" : 215314192,
+    "lulus": true, 
+    "hobby" : ["nyanyi", " travel"],
+    "pembimbing":{
+        "pembimbing1":" bu rosa",
+        "pembimbing2": "bu rita"
+    }
+}
+]
